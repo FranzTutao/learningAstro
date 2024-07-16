@@ -3,6 +3,14 @@
     cursor: pointer;
 }
 
+.dark.blog-links:link {
+    color: #ffc8c8;
+}
+
+.dark .blog-links:visited {
+    color: #fff;
+}
+
 .hamburger .line {
     display: block;
     width: 40px;
